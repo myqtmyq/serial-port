@@ -1,0 +1,12 @@
+D:\C++ CODE\上位机\串口通信\串口通信\bin\Debug\串口通信.exe
+D:\C++ CODE\上位机\串口通信\串口通信\bin\Debug\串口通信.exe.config
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.csproj.AssemblyReference.cache
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.csproj.SuggestedBindingRedirects.cache
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.Properties.Resources.resources
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.csproj.GenerateResource.cache
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.csproj.CoreCompileInputs.cache
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.exe
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.pdb
+D:\C++ CODE\上位机\串口通信\串口通信\bin\Debug\串口通信.pdb
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.Drawer.resources
+D:\C++ CODE\上位机\串口通信\串口通信\obj\Debug\串口通信.MainForm.resources
